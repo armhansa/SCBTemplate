@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.armhansa.scbtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.armhansa.scbtemplate.MyBundle
 
 class MyApplicationService {
 
